@@ -8,6 +8,6 @@
 
  ## KNOWLEDGE GAINED:
  
- From the Task1 I have gained valuable insights into Data Visualization Techniques,Python Programming,Data Analysis and Problem Solving.This task has strengthened my abilities in both technical data handling and 
+ From the Task01 I have gained valuable insights into Data Visualization Techniques,Python Programming,Data Analysis and Problem Solving.This task has strengthened my abilities in both technical data handling and 
  visual communication.
  
